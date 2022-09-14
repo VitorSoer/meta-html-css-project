@@ -1,5 +1,5 @@
-# Mangata & Gallo | Jewelry Story - Meta portfolio project
-**Tools:** HTML | CSS - [Live Demo](https://vitorsoer.github.io/react-hooks-study-cases/)
+# Mangata & Gallo | Jewelry Store - Meta portfolio project
+**Tools:** HTML | CSS - [Live Demo](https://vitorsoer.github.io/meta-html-portfolio-project/)
 
 ![This is an image](https://github.com/VitorSoer/meta-html-portfolio-project/blob/main/assets/screen.webp)
 
