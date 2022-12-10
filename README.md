@@ -22,12 +22,12 @@ Mangata and Gallo is a jewelry store that specializes in special occasions like 
 
 1 - Clone the repository:
 ```console
-git clone https://github.com/VitorSoer/meta-html-portfolio-project/
+git clone https://github.com/VitorSoer/meta-html-css-project/
 ```
 
 2 - Access the project directory using the command line:
 ```console
-cd meta-html-portfolio-project
+cd meta-html-css-project
 ```
 3 - Open the file:
 ```console
